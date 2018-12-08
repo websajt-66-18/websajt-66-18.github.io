@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+   <title>Travel news</title>
+   <link>https://sajt-66-18.github.io/index.html</link>
+   <description>Get your news as soon as possible!</description>
+   
+<item>
+   <title>America</title>
+   <link>https://sajt-66-18.github.io/america.html</link>
+   <description>New York City and Boston</description>
+</item>
+
+<item>
+   <title>Europe</title>
+   <link>https://sajt-66-18.github.io/europe.html</link>
+   <description>Berlin and London</description>
+</item> 
+  
+</channel>
+</rss>
